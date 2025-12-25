@@ -109,7 +109,7 @@ Software Engineer with experience in **backend development** and **safety-critic
   </tr>
   <tr>
     <td>💼 LinkedIn</td>
-    <td><a href="https://www.linkedin.com/in/diogoviieira/">linkedin.com/in/diogovieira</a></td>
+    <td><a href="https://www.linkedin.com/in/diogoviieira/">linkedin.com/in/diogoviieira</a></td>
   </tr>
   <tr>
     <td>💻 GitHub</td>
@@ -117,7 +117,7 @@ Software Engineer with experience in **backend development** and **safety-critic
   </tr>
   <tr>
     <td>✉️ Email</td>
-    <td><a href="mailto:dvieira.work@gmail.com">diogo.vieira.dev@gmail.com</a></td>
+    <td><a href="mailto:dvieira.work@gmail.com">dvieira.work@gmail.com</a></td>
   </tr>
 </table>
 
