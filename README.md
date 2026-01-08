@@ -87,19 +87,6 @@ Software Engineer with experience in **backend development** and **safety-critic
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=diogoviieira&show_icons=true&theme=dark&hide_border=true"
-       alt="Diogo Vieira GitHub stats" />
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoviieira&layout=compact&theme=dark&hide_border=true"
-       alt="Top languages" />
-</p>
-
----
-
 ## 🌍 Connect
 
 <table align="center">
