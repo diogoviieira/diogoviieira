@@ -44,7 +44,7 @@ Software Engineer with experience in **backend development** and **safety-critic
 
 ### 🗄️ Databases & SQL
 <p>
-  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" />
 </p>
