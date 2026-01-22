@@ -59,10 +59,6 @@ Software Engineer with experience in **backend development** and **safety-critic
 <p>
   <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/RapidMiner-0f172a?style=for-the-badge&logo=rapidminer&logoColor=white" />
 </p>
 
 </td>
